@@ -1,4 +1,4 @@
-# spinnaker-sample-manifest
+# devops-spinnaker-manifest
 
 > Kubernetes manifest samples for [Spinnaker](https://spinnaker.io) CD pipeline deployments.
 
@@ -39,9 +39,8 @@ kubectl apply -f spinnaker-sample-ingress.yaml
 
 ## Related
 
-- [spinnaker-sample-app](https://github.com/misoboy/spinnaker-sample-app) — The Spring Boot application deployed by these manifests
+- [devops-spinnaker-sample-app](https://github.com/misoboy/devops-spinnaker-sample-app) — The Spring Boot application deployed by these manifests
 
 ## License
 
 MIT
-
